@@ -1,16 +1,15 @@
-### Hi there 👋
+# Jason Everett :sunglasses:
 
-<!--
-**ijason/ijason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on becoming a .NET Core ninja:exclamation: 
 
-Here are some ideas to get you started:
+Experience :point_right: [jasoneverett.dev](https://jasoneverett.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Interests & Hobbies:
+  - Anything C# :computer:
+  - Machine Learning
+  - Mining Crypto (One-CPU-One-Vote)
+  - :metal: & :muscle:
+  - Neglecting my [blog](https://blog.ijasoneverett.com/) 
+
+[![](https://thepracticaldev.s3.amazonaws.com/i/gmrz82bjwhej1f1iqb1e.png)](https://twitter.com/ijayson66)
+
