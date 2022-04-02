@@ -9,7 +9,6 @@ Tech Interests & Hobbies:
   - Machine Learning
   - Mining Crypto (One-CPU-One-Vote)
   - :metal: & :muscle:
-  - Neglecting my [blog](https://blog.ijasoneverett.com/) 
 
 [![](https://thepracticaldev.s3.amazonaws.com/i/gmrz82bjwhej1f1iqb1e.png)](https://twitter.com/ijayson66)
 
